@@ -1,11 +1,12 @@
 name       : haskell-glib
-version    : 0.13.4.1
-release    : 1
+version    : 0.13.5.0
+release    : 2
 source     :
-    - http://hackage.haskell.org/package/glib-0.13.4.1/glib-0.13.4.1.tar.gz : f57202ed4094cc50caa8b390c8b78a1620b3c43b913edb1e5bda0f3c5be32630
+    - https://hackage.haskell.org/package/glib-0.13.5.0/glib-0.13.5.0.tar.gz : 72bdde540d09c75307e422dac63cdc084e41fd5dc24f9e1e121a018aa8a3a6ad
 license    : LGPL-2.1
 component  : programming.haskell
-summary    : GLib is a collection of C data structures and utility functions for the GObject system, main loop implementation, for strings and common data structures dealing with Unicode. This package only binds as much functionality as required to support the packages that wrap libraries that are themselves based on GLib.
+summary    : GLib is a collection of C data structures and utility functions for the GObject system, main loop implementation, for strings and common data structures dealing with Unicode. This package only
+    binds as much functionality as required to support the packages that wrap libraries that are themselves based on GLib.
 description: |
     GLib is a collection of C data structures and utility functions for the GObject system, main loop implementation, for strings and common data structures dealing with Unicode. This package only binds as much functionality as required to support the packages that wrap libraries that are themselves based on GLib.
 builddeps  :

@@ -19,63 +19,63 @@
 </Description>
         <PartOf>programming.haskell</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/Attributes.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/Attributes.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/FFI.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/FFI.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/Flags.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/Flags.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GDateTime.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GDateTime.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GDateTime.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GError.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GError.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GError.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GList.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GList.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GList.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GObject.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GObject.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GObject.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GParameter.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GParameter.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GString.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GString.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GString.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GType.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GType.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GType.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GTypeConstants.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GTypeConstants.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GValue.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GValue.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GValue.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GValueTypes.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GValueTypes.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/GValueTypes.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/MainLoop.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/MainLoop.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/MainLoop.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/Properties.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/Properties.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/Properties.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/Signals.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/Signals.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/Signals.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/StoreValue.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/StoreValue.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/Types.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/Types.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/Types.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/UTFString.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/UTFString.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/Utils.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/Utils.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/System/Glib/Utils.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.4.1/libHSglib-0.13.4.1-Ksfu40Gcg5i5HdmntLbNO7-ghc8.0.1.so</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/package.conf.d/haskell-glib-0.13.4.1.conf</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/Attributes.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/Attributes.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/FFI.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/FFI.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/Flags.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/Flags.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GDateTime.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GDateTime.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GDateTime.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GError.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GError.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GError.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GList.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GList.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GList.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GObject.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GObject.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GObject.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GParameter.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GParameter.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GString.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GString.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GString.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GType.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GType.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GType.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GTypeConstants.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GTypeConstants.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GValue.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GValue.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GValue.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GValueTypes.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GValueTypes.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/GValueTypes.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/MainLoop.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/MainLoop.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/MainLoop.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/Properties.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/Properties.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/Properties.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/Signals.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/Signals.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/Signals.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/StoreValue.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/StoreValue.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/Types.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/Types.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/Types.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/UTFString.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/UTFString.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/Utils.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/Utils.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/System/Glib/Utils.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/glib-0.13.5.0/libHSglib-0.13.5.0-9m2B074FHZEBelky1jR9Nk-ghc8.0.1.so</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/package.conf.d/haskell-glib-0.13.5.0.conf</Path>
             <Path fileType="doc">/usr/share/doc</Path>
         </Files>
     </Package>
@@ -86,16 +86,16 @@
 </Description>
         <PartOf>programming.devel</PartOf>
         <RuntimeDependencies>
-            <Dependency release="1">haskell-glib</Dependency>
+            <Dependency release="2">haskell-glib</Dependency>
         </RuntimeDependencies>
         <Files>
             <Path fileType="library">/usr/lib64/ghc-*/*/*.a</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2017-04-06</Date>
-            <Version>0.13.4.1</Version>
+        <Update release="2">
+            <Date>2017-10-07</Date>
+            <Version>0.13.5.0</Version>
             <Comment>Packaging update</Comment>
             <Name>Bryan T. Meyers</Name>
             <Email>bmeyers@datadrake.com</Email>
