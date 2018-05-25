@@ -1,6 +1,6 @@
 name       : haskell-glib
 version    : 0.13.6.0
-release    : 4
+release    : 5
 source     :
     - https://hackage.haskell.org/package/glib-0.13.6.0/glib-0.13.6.0.tar.gz : 4e71062c6a458440294d820e21449aa4666deed2ea233ef5915da7c1d4aee8eb
 license    : LGPL-2.1
@@ -23,8 +23,11 @@ builddeps  :
     - haskell-text-devel
     - haskell-utf8-string
     - haskell-vector-devel
+optimize   : no-symbols
+networking : yes
 setup      : |
-    %cabal_configure
+    # sed -i "s|Custom|Simple|" glib.cabal
+    %cabal_configure --dynlibdir="\$libdir/\$compiler/\$pkgid"
 build      : |
     %cabal_build
 install    : |
